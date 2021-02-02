@@ -10,7 +10,8 @@ textarea{
   resize: none;
   color: #000000;
   border-left: 1px solid black;
-  padding: 10px;
+  padding-top: 15px;
+  
 }
 
 .jumbotron {
@@ -23,6 +24,10 @@ textarea{
 
 .description{
   white-space: pre-wrap;
+  font-size: 16pt;
+  height: 80px;
+
+
 }
 
 .time-block{
@@ -35,12 +40,14 @@ textarea{
   height: 80px;
   border-top: 1px solid black;
   border-bottom: 1px solid black;
+
 }
 
 .hour {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
+
 }
 
 .past {
