@@ -5,7 +5,7 @@ The Work Day Scheduler is a simple simple calendar application that allows a use
 
 In completing this task, I capitalized on a bit of starter code and I used the [Moment.js](https://momentjs.com/) library, pulling in their data to set both the date and the current time. 
 
-To use the scheduler, simply add an event to the appropriate hour and click the save button. That entry will be there the next time you open the file and will survive even if you close the browser. 
+To use the scheduler, simply add an event to the appropriate hour and click the save button. That entry will be there the next time you open the file and will remain present after a browser refresh. 
 
 The scheduler is also colour coded to illustrate the past, present and future hours as can be seen in this screenshot:
 
