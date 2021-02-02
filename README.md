@@ -9,9 +9,9 @@ To use the scheduler, simply add an event to the appropriate hour and click the 
 
 The scheduler is also colour coded to illustrate the past, present and future hours as can be seen in this screenshot:
 
-![Alt Text](url)
+![Alt Text](https://github.com/catherinebshaw/Homework05/tree/main/Assets/Work Day Scheduler.png)
 
 
 
-The Work Day Scheduler can be accessed here: [GitHub]
+The Work Day Scheduler can be accessed here: [GitHub]https://github.com/catherinebshaw/Homework05/blob/main/index.html
 
