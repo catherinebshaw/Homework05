@@ -13,5 +13,5 @@ The scheduler is also colour coded to illustrate the past, present and future ho
 
 
 
-The Work Day Scheduler can be accessed here: [GitHub]https://github.com/catherinebshaw/Homework05/blob/main/index.html
+The Work Day Scheduler can be accessed here: [GitHub]https://catherinebshaw.github.io/Homework05/
 
