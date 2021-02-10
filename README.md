@@ -12,5 +12,5 @@ At the direction of the client, I used Moment.js to set the current date and tim
 ![Work day scheduler with colour coding for past, present and future](https://github.com/catherinebshaw/Homework05/blob/main/Assets/Work%20Day%20Scheduler.png)
 
 ## Live Site
-The Work Day Scheduler can be accessed here: [Work Day Scheduler]https://catherinebshaw.github.io/Homework05/
+The Work Day Scheduler can be accessed here: [Work Day Scheduler](https://catherinebshaw.github.io/Homework05/)
 
