@@ -1,17 +1,16 @@
-# homework05
-Third-Party API's - Work Day Scheduler
+# The Work-Day Scheduler
 
-The Work Day Scheduler is a simple simple calendar application that allows a user to save events for each hour of the day during a regular 8-4 work day.
+## User Experience
 
-In completing this task, I capitalized on a bit of starter code and I used the [Moment.js](https://momentjs.com/) library, pulling in their data to set both the date and the current time. 
+The Work Day Scheduler is a simple simple calendar application that allows a user to input and save events for each hour of the day during a regular 8-4 work day. As the day progresses, the current hour is highlighted in red while past hours are illustrated in grey and future hours in green. 
 
-To use the scheduler, simply add an event to the appropriate hour and click the save button. That entry will be there the next time you open the file and will remain present after a browser refresh. 
+## Technology Used
 
-The scheduler is also colour coded to illustrate the past, present and future hours as can be seen in this screenshot:
+At the direction of the client, I used Moment.js to set the current date and time. Local storage was also used to ensure that user entries persisted after browser refresh. 
 
-![Alt Text](https://github.com/catherinebshaw/Homework05/blob/main/Assets/Work%20Day%20Scheduler.png)
+## Mock up
+![Work day scheduler with colour coding for past, present and future](https://github.com/catherinebshaw/Homework05/blob/main/Assets/Work%20Day%20Scheduler.png)
 
-
-
-The Work Day Scheduler can be accessed here: [GitHub]https://catherinebshaw.github.io/Homework05/
+## Live Site
+The Work Day Scheduler can be accessed here: [Work Day Scheduler]https://catherinebshaw.github.io/Homework05/
 
